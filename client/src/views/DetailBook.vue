@@ -105,13 +105,17 @@ main .detail-container .detailInfor .author {
 }
 
 main .detail-container .detailInfor .pay {
-    font-size: 26px;
+    font-size: 20px;
     color: #d74d03;
     font-weight: 600;
 }
 
+main .detail-container .detailInfor .quantity {
+    margin-bottom: 0px;
+}
+
 main .detail-container .detailInfor .quantity span {
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 600;
 }
 

@@ -20,17 +20,17 @@ export default {
 }
 </script>
 <template>
-    <div class="col-md-3">
-        <div class="product-item">
-            <div class="product-style">
-                <img :src="data.image" alt="Books" class="product-item">
-                <button type="button" class="add-to-detail" data-product-tile="add-to-cart"
+    <div class="col-md-3" >
+        <div class="product-item" @click="handleNavigateToDetail">
+            <div class="product-style" >
+                <img :src="data.image" alt="Books" class="product-item" >
+                <!-- <button type="button" class="add-to-detail" data-product-tile="add-to-cart"
                     @click="handleNavigateToDetail">Xem
-                    chi tiết</button>
+                    chi tiết</button> -->
             </div>
             <div class="product-infor">
                 <h3 class="text-limit">{{ data.TenSach }}</h3>
-                <h6>{{ data.TacGia }}</h6>
+                <!-- <h6>{{ data.TacGia }}</h6> -->
                 <div class="item-price">{{ data.DonGia }} VND</div>
             </div>
         </div>

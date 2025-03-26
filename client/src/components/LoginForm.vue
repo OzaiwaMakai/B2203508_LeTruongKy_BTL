@@ -76,13 +76,13 @@ export default {
 }
 
 .container .box-head p {
-    padding-top: 40px;
+    padding-top: 0px;
     margin-bottom: 0px;
     font-weight: 600;
 }
 
 .container .loginContainer .loginBox .logo {
-    width: 80px;
+    width: 160px!important;
 }
 
 .container .loginContainer .loginBox .infor-type {

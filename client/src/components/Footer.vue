@@ -5,7 +5,7 @@
                     <div class="col-md-4">
                         <div class="footer-item">
                             <div class="company-brand">
-                                <img src="../assets/img/logo.png" alt="logo" class="footer-logo">
+                                <!-- <img src="../assets/img/logo.png" alt="logo" class="footer-logo"> -->
                                 <p>Hãy đến BookStore và trải nghiệm những quyển sách tuyệt vời mà chúng tôi đã sưu tầm </p>
                             </div>
                         </div>
@@ -17,13 +17,13 @@
                             <h5>Liên Hệ</h5>
                             <ul class="menu-list">
                                 <li class="menu-item">
-                                    <a href="#">Trần Văn Lương</a>
+                                    <a href="#">Lê Trường Kỳ</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="#">MSSV: B2203510</a>
+                                    <a href="#">MSSV: B2203508</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="#">0388395602432</a>
+                                    <a href="#">0366884681</a>
                                 </li>
                                 <li class="menu-item">
                                     <a href="#">Đường 3/2, ĐH Cần Thơ</a>
